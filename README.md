@@ -1,5 +1,7 @@
 # portfolio
 
+PERSON 1 HERE
+
 This repository will be used for ALL your CompSci 290 assignments, thus it will serve as a portfolio of all of your work in this course.
 
 ALL of your assignments (not lab) must be clearly linked to from this site so the course staff can track your progress throughout the course.
